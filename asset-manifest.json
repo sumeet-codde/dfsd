@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/dfsd/static/css/main.7d72eec1.css",
-    "main.js": "/dfsd/static/js/main.86e8bc75.js",
-    "static/media/cryptocurrency.png": "/dfsd/static/media/cryptocurrency.08ecce983459eaec9c7e.png",
-    "index.html": "/dfsd/index.html",
-    "main.7d72eec1.css.map": "/dfsd/static/css/main.7d72eec1.css.map",
-    "main.86e8bc75.js.map": "/dfsd/static/js/main.86e8bc75.js.map"
+    "main.css": "/sumeet-codde/sectorx_github/static/css/main.7d72eec1.css",
+    "main.js": "/sumeet-codde/sectorx_github/static/js/main.57789542.js",
+    "static/media/cryptocurrency.png": "/sumeet-codde/sectorx_github/static/media/cryptocurrency.08ecce983459eaec9c7e.png",
+    "index.html": "/sumeet-codde/sectorx_github/index.html",
+    "main.7d72eec1.css.map": "/sumeet-codde/sectorx_github/static/css/main.7d72eec1.css.map",
+    "main.57789542.js.map": "/sumeet-codde/sectorx_github/static/js/main.57789542.js.map"
   },
   "entrypoints": [
     "static/css/main.7d72eec1.css",
-    "static/js/main.86e8bc75.js"
+    "static/js/main.57789542.js"
   ]
 }
